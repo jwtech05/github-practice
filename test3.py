@@ -1,0 +1,2 @@
+cow = 'boooooo'
+print(cow)
